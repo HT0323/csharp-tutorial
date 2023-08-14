@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.exe
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.deps.json
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.dll
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\bin\Debug\net7.0\NumbersInCSharp.pdb
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.dll
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\refint\NumbersInCSharp.dll
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.pdb
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\NumbersInCSharp.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\numbers-quickstart\obj\Debug\net7.0\ref\NumbersInCSharp.dll
