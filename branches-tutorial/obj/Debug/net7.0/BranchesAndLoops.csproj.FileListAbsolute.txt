@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\bin\Debug\net7.0\BranchesAndLoops.exe
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\bin\Debug\net7.0\BranchesAndLoops.deps.json
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\bin\Debug\net7.0\BranchesAndLoops.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\bin\Debug\net7.0\BranchesAndLoops.dll
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\bin\Debug\net7.0\BranchesAndLoops.pdb
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\BranchesAndLoops.dll
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\refint\BranchesAndLoops.dll
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\BranchesAndLoops.pdb
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\BranchesAndLoops.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\branches-tutorial\obj\Debug\net7.0\ref\BranchesAndLoops.dll
