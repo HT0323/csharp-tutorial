@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\classes.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\classes.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\classes\bin\Debug\net7.0\classes.exe
+C:\Users\alra9\workspace\c#-tutorial\classes\bin\Debug\net7.0\classes.deps.json
+C:\Users\alra9\workspace\c#-tutorial\classes\bin\Debug\net7.0\classes.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\classes\bin\Debug\net7.0\classes.dll
+C:\Users\alra9\workspace\c#-tutorial\classes\bin\Debug\net7.0\classes.pdb
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\classes.dll
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\refint\classes.dll
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\classes.pdb
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\classes.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\classes\obj\Debug\net7.0\ref\classes.dll
