@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\call-function\bin\Debug\net7.0\call-function.exe
+C:\Users\alra9\workspace\c#-tutorial\call-function\bin\Debug\net7.0\call-function.deps.json
+C:\Users\alra9\workspace\c#-tutorial\call-function\bin\Debug\net7.0\call-function.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\call-function\bin\Debug\net7.0\call-function.dll
+C:\Users\alra9\workspace\c#-tutorial\call-function\bin\Debug\net7.0\call-function.pdb
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\call-function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\call-function.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\call-function.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\call-function.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\call-function.dll
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\refint\call-function.dll
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\call-function.pdb
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\call-function.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\call-function\obj\Debug\net7.0\ref\call-function.dll
