@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\array-loop\bin\Debug\net7.0\array-loop.exe
+C:\Users\alra9\workspace\c#-tutorial\array-loop\bin\Debug\net7.0\array-loop.deps.json
+C:\Users\alra9\workspace\c#-tutorial\array-loop\bin\Debug\net7.0\array-loop.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\array-loop\bin\Debug\net7.0\array-loop.dll
+C:\Users\alra9\workspace\c#-tutorial\array-loop\bin\Debug\net7.0\array-loop.pdb
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\array-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\array-loop.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\array-loop.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\array-loop.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\array-loop.dll
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\refint\array-loop.dll
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\array-loop.pdb
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\array-loop.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\array-loop\obj\Debug\net7.0\ref\array-loop.dll
