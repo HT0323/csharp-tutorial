@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\code-blook\bin\Debug\net7.0\code-blook.exe
+C:\Users\alra9\workspace\c#-tutorial\code-blook\bin\Debug\net7.0\code-blook.deps.json
+C:\Users\alra9\workspace\c#-tutorial\code-blook\bin\Debug\net7.0\code-blook.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\code-blook\bin\Debug\net7.0\code-blook.dll
+C:\Users\alra9\workspace\c#-tutorial\code-blook\bin\Debug\net7.0\code-blook.pdb
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\code-blook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\code-blook.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\code-blook.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\code-blook.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\code-blook.dll
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\refint\code-blook.dll
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\code-blook.pdb
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\code-blook.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\code-blook\obj\Debug\net7.0\ref\code-blook.dll
