@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\bin\Debug\net7.0\bool-execution.exe
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\bin\Debug\net7.0\bool-execution.deps.json
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\bin\Debug\net7.0\bool-execution.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\bin\Debug\net7.0\bool-execution.dll
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\bin\Debug\net7.0\bool-execution.pdb
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\bool-execution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\bool-execution.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\bool-execution.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\bool-execution.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\bool-execution.dll
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\refint\bool-execution.dll
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\bool-execution.pdb
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\bool-execution.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\bool-execution\obj\Debug\net7.0\ref\bool-execution.dll
