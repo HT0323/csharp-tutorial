@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\array-helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\array-helper.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\array-helper.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\array-helper.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\array-helper\bin\Debug\net7.0\array-helper.exe
+C:\Users\alra9\workspace\c#-tutorial\array-helper\bin\Debug\net7.0\array-helper.deps.json
+C:\Users\alra9\workspace\c#-tutorial\array-helper\bin\Debug\net7.0\array-helper.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\array-helper\bin\Debug\net7.0\array-helper.dll
+C:\Users\alra9\workspace\c#-tutorial\array-helper\bin\Debug\net7.0\array-helper.pdb
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\array-helper.dll
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\refint\array-helper.dll
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\array-helper.pdb
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\array-helper.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\array-helper\obj\Debug\net7.0\ref\array-helper.dll
