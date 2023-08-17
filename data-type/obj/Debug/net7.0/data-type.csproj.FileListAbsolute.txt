@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\data-type\bin\Debug\net7.0\data-type.exe
+C:\Users\alra9\workspace\c#-tutorial\data-type\bin\Debug\net7.0\data-type.deps.json
+C:\Users\alra9\workspace\c#-tutorial\data-type\bin\Debug\net7.0\data-type.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\data-type\bin\Debug\net7.0\data-type.dll
+C:\Users\alra9\workspace\c#-tutorial\data-type\bin\Debug\net7.0\data-type.pdb
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\data-type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\data-type.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\data-type.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\data-type.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\data-type.dll
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\refint\data-type.dll
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\data-type.pdb
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\data-type.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\data-type\obj\Debug\net7.0\ref\data-type.dll
