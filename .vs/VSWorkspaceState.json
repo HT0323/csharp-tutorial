@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\if"
+    "\\pet-project",
+    "\\pet-project\\Starter"
   ],
-  "SelectedNode": "\\if\\Program.cs",
+  "SelectedNode": "\\pet-project\\Starter\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
