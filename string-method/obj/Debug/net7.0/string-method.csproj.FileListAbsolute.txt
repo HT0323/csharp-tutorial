@@ -1,0 +1,14 @@
+C:\Users\alra9\workspace\c#-tutorial\string-method\bin\Debug\net7.0\string-method.exe
+C:\Users\alra9\workspace\c#-tutorial\string-method\bin\Debug\net7.0\string-method.deps.json
+C:\Users\alra9\workspace\c#-tutorial\string-method\bin\Debug\net7.0\string-method.runtimeconfig.json
+C:\Users\alra9\workspace\c#-tutorial\string-method\bin\Debug\net7.0\string-method.dll
+C:\Users\alra9\workspace\c#-tutorial\string-method\bin\Debug\net7.0\string-method.pdb
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\string-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\string-method.AssemblyInfoInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\string-method.AssemblyInfo.cs
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\string-method.csproj.CoreCompileInputs.cache
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\string-method.dll
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\refint\string-method.dll
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\string-method.pdb
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\string-method.genruntimeconfig.cache
+C:\Users\alra9\workspace\c#-tutorial\string-method\obj\Debug\net7.0\ref\string-method.dll
